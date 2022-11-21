@@ -1,9 +1,7 @@
-# IFSC Project
+# IFSC Classification Report
 
-Language Used: R
+This repository includes all of the files for my International Federation of Sport Climbing (IFSC) machine learning classification project. 
 
-This repository contains all R, Rmd, and PDF files for the project. 
-
-This project was completed as the final part of the Harvardx Professional Certificate in Data Science (Scored: 100 out of 100 points). 
-
-The data used in this project comes from https://www.kaggle.com/datasets/brkurzawa/ifsc-sport-climbing-competition-results.
+There are two versions of the final report. 
+- For those primarily interested in seeing the data visualizations, analysis, and results of the supervised machine learning models, I recommend viewing the IFSC_Abridge_Report file.
+- For those who want to see the full details of how I imported, cleaned, analyzed, visualized, modeled, and tuned the data, I recommend viewing the IFS
